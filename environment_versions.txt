@@ -1,0 +1,3 @@
+  abricate                               1.4.0             h05cac1d_0               bioconda   
+  blast                                  2.17.0            h66d330f_0               bioconda   
+  blast-legacy                           2.2.26            hf7ff83a_5               bioconda   
